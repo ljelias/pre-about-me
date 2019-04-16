@@ -12,14 +12,14 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('../img/code.jpg');
+  background-image: url('../img/parsley2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .masthead-intro {
     margin-bottom: 0.1em;
-    font-size: 2em;
+    font-size: 3em;
     color: #ffffff;
 }
 
